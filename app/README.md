@@ -31,6 +31,17 @@ bun run import.ts
 - **/bookings/:id/delete** — broneeringu kustutamine (DELETE)
 - **/stats** — statistikavaade (klasside kasutus tundides, tunnitüüpide jaotus)
 
+## Ekraanipildid
+
+### Broneeringute nimekiri
+![Broneeringud](../screenshots/broneeringud.png)
+
+### Uue broneeringu lisamine
+![Uus broneering](../screenshots/uus_broneering.png)
+
+### Statistikavaade
+![Statistika](../screenshots/statistika.png)
+
 ## Andmebaas
 
 SQLite andmebaas luuakse automaatselt faili `database.db` projekti juurkausta.
