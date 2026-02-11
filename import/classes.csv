@@ -1,0 +1,7 @@
+name,building,room_number,capacity,has_projector
+Arvutiklass A101,Peahoone,A101,30,1
+Arvutiklass B205,Peahoone,B205,24,1
+Arvutiklass C110,Kõrvalhoone,C110,20,0
+Labor D301,Kõrvalhoone,D301,16,1
+Arvutiklass E102,Peahoone,E102,32,1
+Väike labor F201,Kõrvalhoone,F201,12,0

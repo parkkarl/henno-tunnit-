@@ -1,0 +1,7 @@
+[
+  { "name": "Mart Tamm", "email": "mart.tamm@kool.ee", "type": "teacher" },
+  { "name": "Liis Kask", "email": "liis.kask@kool.ee", "type": "teacher" },
+  { "name": "Andres Paju", "email": "andres.paju@kool.ee", "type": "teacher" },
+  { "name": "TAK25", "email": "tak25@kool.ee", "type": "group" },
+  { "name": "TAK24", "email": "tak24@kool.ee", "type": "group" }
+]

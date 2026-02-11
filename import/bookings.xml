@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookings>
+  <booking>
+    <classroom_id>1</classroom_id>
+    <user_id>1</user_id>
+    <lesson_type_id>1</lesson_type_id>
+    <date>2026-02-09</date>
+    <start_time>08:00</start_time>
+    <end_time>09:30</end_time>
+    <participants>28</participants>
+    <description>Programmeerimise loeng</description>
+  </booking>
+  <booking>
+    <classroom_id>2</classroom_id>
+    <user_id>2</user_id>
+    <lesson_type_id>2</lesson_type_id>
+    <date>2026-02-09</date>
+    <start_time>10:00</start_time>
+    <end_time>11:30</end_time>
+    <participants>20</participants>
+    <description>Andmebaaside labor</description>
+  </booking>
+  <booking>
+    <classroom_id>3</classroom_id>
+    <user_id>3</user_id>
+    <lesson_type_id>4</lesson_type_id>
+    <date>2026-02-09</date>
+    <start_time>12:00</start_time>
+    <end_time>13:30</end_time>
+    <participants>18</participants>
+    <description>Võrgutehnoloogia seminar</description>
+  </booking>
+  <booking>
+    <classroom_id>4</classroom_id>
+    <user_id>4</user_id>
+    <lesson_type_id>2</lesson_type_id>
+    <date>2026-02-10</date>
+    <start_time>08:00</start_time>
+    <end_time>10:00</end_time>
+    <participants>15</participants>
+    <description>Riistvara labor</description>
+  </booking>
+  <booking>
+    <classroom_id>1</classroom_id>
+    <user_id>2</user_id>
+    <lesson_type_id>1</lesson_type_id>
+    <date>2026-02-10</date>
+    <start_time>10:00</start_time>
+    <end_time>11:30</end_time>
+    <participants>30</participants>
+    <description>Veebiarenduse loeng</description>
+  </booking>
+  <booking>
+    <classroom_id>5</classroom_id>
+    <user_id>5</user_id>
+    <lesson_type_id>3</lesson_type_id>
+    <date>2026-02-10</date>
+    <start_time>12:00</start_time>
+    <end_time>14:00</end_time>
+    <participants>25</participants>
+    <description>Programmeerimise eksam</description>
+  </booking>
+  <booking>
+    <classroom_id>2</classroom_id>
+    <user_id>1</user_id>
+    <lesson_type_id>4</lesson_type_id>
+    <date>2026-02-11</date>
+    <start_time>08:00</start_time>
+    <end_time>09:30</end_time>
+    <participants>22</participants>
+    <description>IT-projektide seminar</description>
+  </booking>
+  <booking>
+    <classroom_id>6</classroom_id>
+    <user_id>3</user_id>
+    <lesson_type_id>2</lesson_type_id>
+    <date>2026-02-11</date>
+    <start_time>10:00</start_time>
+    <end_time>12:00</end_time>
+    <participants>10</participants>
+    <description>Küberturbe labor</description>
+  </booking>
+  <booking>
+    <classroom_id>1</classroom_id>
+    <user_id>4</user_id>
+    <lesson_type_id>1</lesson_type_id>
+    <date>2026-02-11</date>
+    <start_time>13:00</start_time>
+    <end_time>14:30</end_time>
+    <participants>26</participants>
+    <description>Operatsioonisüsteemide loeng</description>
+  </booking>
+  <booking>
+    <classroom_id>3</classroom_id>
+    <user_id>5</user_id>
+    <lesson_type_id>2</lesson_type_id>
+    <date>2026-02-12</date>
+    <start_time>08:00</start_time>
+    <end_time>10:00</end_time>
+    <participants>16</participants>
+    <description>Andmebaaside labor</description>
+  </booking>
+</bookings>

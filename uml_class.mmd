@@ -1,0 +1,39 @@
+classDiagram
+    direction LR
+
+    class classroom {
+        +int id PK
+        +text name
+        +text building
+        +text room_number
+        +int capacity
+        +int has_projector
+    }
+
+    class user_or_group {
+        +int id PK
+        +text name
+        +text email
+        +text type
+    }
+
+    class lesson_type {
+        +int id PK
+        +text name
+    }
+
+    class booking {
+        +int id PK
+        +int classroom_id FK
+        +int user_id FK
+        +int lesson_type_id FK
+        +text date
+        +text start_time
+        +text end_time
+        +int participants
+        +text description
+    }
+
+    classroom "1" --> "*" booking : has
+    user_or_group "1" --> "*" booking : makes
+    lesson_type "1" --> "*" booking : categorizes

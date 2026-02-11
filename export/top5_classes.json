@@ -1,0 +1,37 @@
+[
+  {
+    "classroom": "Arvutiklass A101",
+    "building": "Peahoone",
+    "room_number": "A101",
+    "total_bookings": 3,
+    "total_hours": 4.5
+  },
+  {
+    "classroom": "Arvutiklass B205",
+    "building": "Peahoone",
+    "room_number": "B205",
+    "total_bookings": 2,
+    "total_hours": 3
+  },
+  {
+    "classroom": "Arvutiklass C110",
+    "building": "Kõrvalhoone",
+    "room_number": "C110",
+    "total_bookings": 2,
+    "total_hours": 3.5
+  },
+  {
+    "classroom": "Labor D301",
+    "building": "Kõrvalhoone",
+    "room_number": "D301",
+    "total_bookings": 1,
+    "total_hours": 2
+  },
+  {
+    "classroom": "Arvutiklass E102",
+    "building": "Peahoone",
+    "room_number": "E102",
+    "total_bookings": 1,
+    "total_hours": 2
+  }
+]
