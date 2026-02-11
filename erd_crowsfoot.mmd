@@ -1,0 +1,37 @@
+erDiagram
+    classroom {
+        int id PK
+        text name
+        text building
+        text room_number
+        int capacity
+        int has_projector
+    }
+
+    user_or_group {
+        int id PK
+        text name
+        text email
+        text type
+    }
+
+    lesson_type {
+        int id PK
+        text name
+    }
+
+    booking {
+        int id PK
+        int classroom_id FK
+        int user_id FK
+        int lesson_type_id FK
+        text date
+        text start_time
+        text end_time
+        int participants
+        text description
+    }
+
+    classroom ||--o{ booking : "has"
+    user_or_group ||--o{ booking : "makes"
+    lesson_type ||--o{ booking : "categorizes"
