@@ -24,6 +24,14 @@ Server käivitub aadressil: **http://localhost:3000**
 - **/bookings/:id/delete** — broneeringu kustutamine (DELETE)
 - **/stats** — statistikavaade (klasside kasutus tundides, tunnitüüpide jaotus)
 
+## Diagrammid
+
+### ERD (Crow's Foot)
+![ERD](erd_crowsfoot.png)
+
+### UML klassidiagramm
+![UML](uml_class.png)
+
 ## Ekraanipildid
 
 ### Broneeringute nimekiri
